@@ -1,0 +1,38 @@
+SMAP
+confirmgmail_jsp.java
+JSP
+*S JSP
+*F
++ 0 confirmgmail.jsp
+confirmgmail.jsp
++ 1 scriptandcss.html
+scriptandcss.html
++ 2 navigation.jsp
+navigation.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,7:52
+1#1,27:59
+11#0,7:86
+5#2,77:93
+82:170,3
+83:173
+84,3:175
+86,4:178
+89,5:182
+93:187
+94,3:188,3
+97,3:197
+99,2:200
+100,2:202
+102,3:205
+104,7:208
+111,2:215,3
+113,3:221
+115:223,2
+116,11:225
+17#0,44:235
+5#3,29:279
+60#0,31:308
+*E

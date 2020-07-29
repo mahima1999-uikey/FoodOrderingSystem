@@ -1,0 +1,30 @@
+SMAP
+addFoodItem_jsp.java
+JSP
+*S JSP
+*F
++ 0 addFoodItem.jsp
+addFoodItem.jsp
++ 1 scriptandcss.html
+scriptandcss.html
++ 2 adminnavbar.jsp
+adminnavbar.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,9:51
+1#1,27:60
+13#0,10:87
+5#2,78:97
+83:175,3
+84,2:178
+86,2:180,3
+88,8:186
+96:194,3
+97,14:197
+22#0,22:210
+44:232,3
+45,59:235
+5#3,29:294
+103#0,30:323
+*E
